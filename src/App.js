@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://github.com/sandyp007/Weather_App.git">
+        <a href="https://github.com/sandyp007/Weather-App.git">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
