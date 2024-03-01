@@ -1,5 +1,6 @@
 
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+
+![sasa](https://github.com/sandyp007/Weather-App/assets/108931503/c3aced30-edab-4a0f-b556-bd8a82e36276)
 
 
 
